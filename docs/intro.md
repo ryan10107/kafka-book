@@ -1,1 +1,1 @@
-# Kafka-2.6.3 简要介绍 xxxxxxxxxxxxx
+# Kafka-2.6.3 简要介绍
